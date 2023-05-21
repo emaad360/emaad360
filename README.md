@@ -1,4 +1,4 @@
-<h1>Hi, I'm Emaad! <br/><a href="https://github.com/joshmadakor1">Penetration Tester</a> and <a href="https://www.linkedin.com/in/joshmadakor/">Front-end Developer</a> <a </h1>
+<h1>Hi, I'm Emaad! <br/><a href="https://github.com/joshmadakor1">Penetration Tester</a> and <a href="https://www.linkedin.com/in/joshmadakor/">Web Application Developer</a> <a </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
