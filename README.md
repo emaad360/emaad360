@@ -4,8 +4,6 @@
 
 - <b>Penetration Testing Projects</b>
   - [Pentests](https://github.com/emaad360/Pentests)
-- <b>Blue Team Projects</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
   
  <h2>👨‍💻 Development Projects:</h2>
 
@@ -14,6 +12,12 @@
 - <b>Bootstrap (HTML/CSS) Frontend Development Project</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
+ 
+ <h2>👨‍💻 Blockchain Projects:</h2>
+
+- <b>Smart Contracts Development</b>
+  - [Solidity/Ethereum]
+  
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
