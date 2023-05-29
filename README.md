@@ -8,8 +8,9 @@
  <h2>👨‍💻 Development Projects:</h2>
 
 - <b>Django Backend Development Project</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Django](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Bootstrap (HTML/CSS) Frontend Development Project</b>
+  - [Bootstrap](https://github.com/joshmadakor1/)
 
  
  <h2>👨‍💻 Blockchain Projects:</h2>
