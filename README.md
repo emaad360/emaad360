@@ -16,7 +16,7 @@
  <h2>👨‍💻 Blockchain Projects:</h2>
 
 - <b>Smart Contracts Development</b>
-  - [Solidity/Ethereum]
+  - [Solidity/Ethereum](https://cryptozombies.io/)
   
 <h2>📺 Popular YouTube Videos</h2>
 
