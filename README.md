@@ -16,7 +16,8 @@
  <h2>👨‍💻 Blockchain Projects:</h2>
 
 - <b>Smart Contracts Development</b>
-  - [Solidity/Ethereum](https://cryptozombies.io/)
+  - [TokenMaster](https://github.com/emaad360/tokenmaster)
+  - [Dappcord](https://github.com/emaad360/tokenmaster)
   
 <h2>📺 Popular YouTube Videos</h2>
 
